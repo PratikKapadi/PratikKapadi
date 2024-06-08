@@ -6,11 +6,13 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">const Pratikkapadi = {<br>    passion: "Full-Stack Development",<br>    learning: "MERN (MongoDB, Express.js, React.js, Node.js)",<br>    collaboration: "Web Development Projects",<br>    interests: ["Coding", "Traveling","Tracking"],<br>    funFact: "I once solved a coding bug while dreaming!"<br>}</p>
 
 ###
 
-<p align="left">🔭 I’m currently updating on my knowledge and improving skills.<br><br>🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js)<br><br>💬 Ask me about web development, especially full-stack development.<br><br>📫 How to reach me<a href="pratikkapdi13@gmail.com"> Email</a> and<a href="https://linkedin.com/in/pratik-kapadi"> LinkedIn</a><br><br>⚡ Fun fact I once solved a coding bug while dreaming.</p>
+<p align="left">🔭 I’m currently updating on my knowledge and improving skills.<br><br>🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js)<br><br>💬 Ask me about web development, especially full-stack development.<br><br>📫 How to reach me Email and LinkedIn<br><br>⚡ Fun fact I once solved a coding bug while dreaming.</p>
 
 ###
 
