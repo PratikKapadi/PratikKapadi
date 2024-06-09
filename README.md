@@ -76,6 +76,7 @@
 <h2 align="left">💻 My Projects</h2>
 <ul>
   <li> <a href=""><b>E-Prescription</b></a> <br> Developed a comprehensive e-prescription system integrating secure login, medication search, and electronic prescription generation. Utilized HTML, CSS, JavaScript, Node.js, and MySQL.</li>
+   <li> <a href=""><b>Travel Expenses Tracker </b></a> <br> Implemented real-time data processing and validation using HTML, CSS, and JavaScript. Utilized Node.js and MySQL Workbench for backend operations.</li>
 </ul>
 
 ###
