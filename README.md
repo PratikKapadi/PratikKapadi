@@ -29,7 +29,7 @@
 - 💬 Ask me about web development, especially full-stack development.  
   
 
-- 📫 How to reach me [Email ](pratikkapdi13@gmail.com) and  [LinkedIn ](http://linkedin.com/in/pratik-kapadi)  
+- 📫 How to reach me [Email ](mailto:pratikkapdi13@gmail.com) and  [LinkedIn ](http://linkedin.com/in/pratik-kapadi)  
   
 
 <br/>  
