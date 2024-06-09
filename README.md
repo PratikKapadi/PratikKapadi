@@ -4,6 +4,7 @@
 
 <p align="left"></p>
 
+![Profile views counter](https://komarev.com/ghpvc/?username=Pratik2544&&style=flat-square)  
 ###
 
   ```javascript 
@@ -17,9 +18,22 @@
    ```
 ###
 
-<p align="left">🔭 I’m currently updating on my knowledge and improving skills.<br><br>🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js)<br><br>💬 Ask me about web development, especially full-stack development.<br><br>📫 How to reach me Email and LinkedIn<br><br>⚡ Fun fact I once solved a coding bug while dreaming.</p>
+  
 
-###
+- 🔭 I’m currently updating on my knowledge and improving skills.  
+  
+
+- 🌱 I’m currently learning MERN (MongoDB, Express.js, React.js, Node.js)  
+  
+
+- 💬 Ask me about web development, especially full-stack development.  
+  
+
+- 📫 How to reach me [Email ](pratikkapdi13@gmail.com) and  [LinkedIn ](http://linkedin.com/in/pratik-kapadi)  
+  
+
+<br/>  
+
 
 <h2 align="left">🛠️ Languages & Tools</h2>
 
@@ -40,33 +54,40 @@
 </div>
 
 ###
+<br/>  
 
-<h2 align="left">😁 Connect with Me</h2>
 
-###
+## Connect with me  
+<a href="https://github.com/Pratik2544" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/pratik-kapadi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/pratik.kapdi.025" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
-<div align="left">
-  <a href="pratikkapdi13@gmail.com " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="pratik.kapdi.025" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="pratik-kapadi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<br/>  
 
 ###
 
 <h2 align="left">💻 My Projects</h2>
+<ul>
+  <li> <a href=""><b>E-Prescription</b></a> <br> Developed a comprehensive e-prescription system integrating secure login, medication search, and electronic prescription generation. Utilized HTML, CSS, JavaScript, Node.js, and MySQL.</li>
+</ul>
 
 ###
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Pratik2544&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratik2544&hide_border=true&layout=compact" align="right" /></div>  
 
-<p align="left">Hello World!!</p>
 
-###
+<br/>  
 
-<h2 align="left">📊 GitHub Info</h2>
 
-###
+ 
+
+  
+
