@@ -79,11 +79,11 @@
   <li> <a href="https://github.com/PratikKapadi/E-Prescription"><b>E-Prescription</b></a> <br>Developed a comprehensive e-prescription system integrating secure login, medication
 search, and electronic prescription generation using HTML, CSS, JavaScript, Node.js,
 and MySQL.</li>
-   <li> <a href="https://github.com/PratikKapadi/Travel-Expenses-Tracker-"><b>Travel Expenses Tracker </b></a> <br> Implemented a Travel Expenses Tracker to enable users to track and manage their travel
+   <li> <a href="https://github.com/PratikKapadi/Travel-Expenses-Tracker"><b>Travel Expenses Tracker </b></a> <br> Implemented a Travel Expenses Tracker to enable users to track and manage their travel
 expenses effectively, utilizing real-time data processing and validation with HTML,
 CSS, and JavaScript, and leveraging Node.js for backend operations and MySQL
 Workbench for database management..</li>
-  <li> <a href="https://github.com/PratikKapadi/Travel-Expenses-Tracker-"><b>Parking Allocation </b></a> <br> Engineered a resilient parking allocation system using XAMPP and Visual Studio,
+  <li> <a href="https://github.com/PratikKapadi/Parking-Allocation"><b>Parking Allocation </b></a> <br> Engineered a resilient parking allocation system using XAMPP and Visual Studio,
 employing HTML, CSS, JavaScript, PHP, and MySQL for full-stack web development,
 allowing users to check mall parking status and efficiently manage parking allocation.</li>
 </ul>
