@@ -51,6 +51,7 @@
 
 
 ## Connect with me  
+<div align="left">
 <a href="mailto:pratikkapdi13@gmail.com " target="_blank">
    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -62,7 +63,7 @@
  
 </a>  
   
-
+</div>
 <br/>  
 
 ###
