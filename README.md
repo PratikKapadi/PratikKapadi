@@ -52,13 +52,13 @@
 
 ## Connect with me  
 <a href="mailto:pratikkapdi13@gmail.com " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 <a href="https://linkedin.com/in/pratik-kapadi" target="_blank">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+ <img src="https://skillicons.dev/icons?i=instagram" />
  </a>
 <a href="https://instagram.com/pratik.kapdi.025" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+ <img src="https://skillicons.dev/icons?i=linkedin" />
  
 </a>  
   
