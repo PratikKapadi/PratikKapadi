@@ -9,8 +9,8 @@
 
   ```javascript 
   const Pratikkapadi = {
-  passion: "Full-Stack Development",
-  learning: "MERN (MongoDB, Express.js, React.js, Node.js)",
+  passion: "App/Full-Stack Web Development",
+  learning: "MERN (MongoDB, Express.js, React.js, Node.js),React Native,Redux",
   collaboration: "Web Development Projects",
   interests: ["Coding", "Traveling","Tracking"],
   funFact: "I once solved a coding bug while dreaming!"
@@ -41,7 +41,7 @@
 
 <div align="left">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,express,bootstrap,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,express,bootstrap,git,github,postman,redux,reactnative" />
   </a>
           
 </div>
