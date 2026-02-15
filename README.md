@@ -83,10 +83,6 @@ employing HTML, CSS, JavaScript, PHP, and MySQL for full-stack web development,
 allowing users to check mall parking status and efficiently manage parking allocation.</li>
 </ul>
 
-###
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=PratikKapadi&theme=outrun&show_icons=true" align="left" />       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikKapadi&theme=outrun&show_icons=true&layout=compact" align="center" />
-
 
 <br/>  
 
